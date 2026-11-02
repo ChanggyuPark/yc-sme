@@ -1,9 +1,9 @@
-/* YC Corporation /sme Sixshop mount — source: final v6 HTML (content and links preserved) */
+/* YC Corporation /sme-voucher Sixshop mount — source: final v6 HTML (content and links preserved) */
 (function () {
   'use strict';
   if (window.__YC_SME_SIXSHOP_MOUNT_V1__) return;
   window.__YC_SME_SIXSHOP_MOUNT_V1__ = true;
-  const PATH = '/sme';
+  const PATH = '/sme-voucher';
   const PAGE_SELECTOR = '#page2766217';
   const ROOT_ID = 'yc-sme-landing';
   const ROUTE_CLASS = 'yc-sme-route-active';
