@@ -1,4 +1,4 @@
-/* YC /sme — Sixshop-safe scoped stylesheet. All content styles are isolated below #yc-sme-landing. */
+/* YC /sme-voucher — Sixshop-safe scoped stylesheet. All content styles are isolated below #yc-sme-landing. */
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Pretendard:wght@400;500;600;700;800&display=swap');
 html.yc-sme-route-active #page2766217 { display: none !important; }
 #yc-sme-landing{box-sizing:border-box;display:block;width:100%;margin:0;padding:0;isolation:isolate;background:#fff;}
